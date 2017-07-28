@@ -1,3 +1,4 @@
+/*Github Demo*/
 #include<stdio.h>
 void combine(int a[],int low,int high,int mid)
 {
